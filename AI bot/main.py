@@ -5,7 +5,7 @@ import io
 import os  
 from logic import detect_pet  
 
-TOKEN = "7771648002:AAFH_BCxiVbujzwfVrVw4M9DIy_FCFIeUCw"
+TOKEN = "Твой токен"
 
 bot = telebot.TeleBot(TOKEN)
 
